@@ -1,3 +1,4 @@
 temp/*
 !temp/log/
 temp/log/*.tmp
+comands.*
